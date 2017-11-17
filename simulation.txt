@@ -1,0 +1,47 @@
+Player1-E10
+Player2-E10
+Player1-B1
+Player2-E1
+Player1-I1
+Player2-I3
+Player1-J10
+Player2-J2
+Player1-A10
+Player2-A10
+Player1-D1
+#ships 2
+Player1-A3
+Player2-J5
+Player1-B3
+Player2-H7
+Player1-J3
+Player2-C10
+Player1-J4
+Player2-D3
+Player1-A7
+Player2-I9
+Player1-B7
+#ships 3
+Player1-D3
+Player2-E4
+Player1-E3
+Player2-H7
+Player1-F3
+Player2-I8
+Player1-E10
+Player2-E1
+Player1-D10
+Player2-D10
+Player1-C10
+Player2-B6
+#ships 4
+Player1-B5
+Player2-A1
+Player1-C5
+Player2-D9
+Player1-D5
+Player2-E7
+#Player1-E5 <— If you want to see 1 player win erase the “#”
+Print_Boards
+Print_Movements
+

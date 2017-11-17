@@ -1,0 +1,11 @@
+#lines which starts with # you shall be able to ignore in your code
+A1-A1
+I2-I2
+I8-I8
+C7-C7
+F5-F6
+A5-A6
+E9-E10
+J4-J6
+B3-D3
+C1-F1
